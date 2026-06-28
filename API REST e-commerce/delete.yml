@@ -1,0 +1,15 @@
+info:
+  name: delete
+  type: http
+  seq: 1
+
+http:
+  method: DELETE
+  url: "{{baseURL}}/products/1"
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: false
+  maxRedirects: 5
