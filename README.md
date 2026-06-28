@@ -2,7 +2,7 @@
   <img src="https://jsdelivr.net" height="80" alt="Java Logo" />
   <img src="https://jsdelivr.net" height="80" alt="Spring Logo" />
   <img src="https://jsdelivr.net" height="80" alt="PostgreSQL Logo" />
-  <h1>[Nome da Sua API REST]</h1>
+  <h1>[API REST]</h1>
   <p>🚀 <i>API REST robusta desenvolvida com Spring Boot e persistência de dados em PostgreSQL.</i></p>
 </div>
 
