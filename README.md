@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://shields.io[KarlaSilva37]/[API-REST]?style=for-the-badge&color=2c3e50" alt="Stars">
-  <img src="https://shields.io[KarlaSilva37]/[API-REST]?style=for-the-badge&color=2c3e50" alt="Forks">
-  <img src="https://shields.io[KarlaSilva37]/[API-REST]?style=for-the-badge&color=2c3e50" alt="License">
+  <img src="https://shields.io" alt="Stars">
+  <img src="https://shields.io" alt="Forks">
+  <img src="https://shields.io" alt="License">
 </p>
 
 ---
@@ -70,7 +70,7 @@ Para criar um novo registro na API, utilize o seguinte formato de corpo (`body`)
 Para facilitar os testes dos endpoints, este projeto inclui uma coleção pronta para o **Bruno** (API Client de código aberto e focado em privacidade).
 
 <p align="left">
-  <img src="https://shields.io" alt="Bruno API Client">
+  <img src="https://shields.io" " alt="Bruno API Client">
 </p>
 
 ### Como importar as requisições:
