@@ -61,11 +61,11 @@ public class ProductController {
 
         if (product.isEmpty()) {
 
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Produto nao encontrado");
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Produto nao encontrado!!");
         }
 
         repository.delete(product.get());
-        return ResponseEntity.status(HttpStatus.OK).body("Produto deletado com sucesso");
+        return ResponseEntity.status(HttpStatus.OK).body("Produto deletado com sucesso!!");
 
     }
 
@@ -76,7 +76,7 @@ public class ProductController {
 
         if (product.isEmpty()) {
 
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Produto nao encontrado");
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Produto nao encontrado!!");
         }
 
         var productModel = new Product();
